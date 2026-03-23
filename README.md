@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/lingeswaran05/Leetcode/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/lingeswaran05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lingeswaran05/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lingeswaran05/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/lingeswaran05/Leetcode/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/lingeswaran05/Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
