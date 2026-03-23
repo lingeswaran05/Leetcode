@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
