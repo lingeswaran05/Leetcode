@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lingeswaran05/Leetcode/tree/master/0016-3sum-closest) |
+| [0078-subsets](https://github.com/lingeswaran05/Leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/lingeswaran05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lingeswaran05/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/lingeswaran05/Leetcode/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lingeswaran05/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/lingeswaran05/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
