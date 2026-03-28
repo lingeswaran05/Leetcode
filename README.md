@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/lingeswaran05/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/lingeswaran05/Leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/lingeswaran05/Leetcode/tree/master/0994-rotting-oranges) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/lingeswaran05/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3285-find-indices-of-stable-mountains](https://github.com/lingeswaran05/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/lingeswaran05/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/lingeswaran05/Leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/lingeswaran05/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/lingeswaran05/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lingeswaran05/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
