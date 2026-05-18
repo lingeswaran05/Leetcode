@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lingeswaran05/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/lingeswaran05/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
@@ -94,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/lingeswaran05/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0322-coin-change](https://github.com/lingeswaran05/Leetcode/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/lingeswaran05/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
