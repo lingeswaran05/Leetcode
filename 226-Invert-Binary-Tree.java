@@ -14,22 +14,19 @@
  * }
  */
 class Solution {
-    public TreeNode invertTree(TreeNode root) {
-        TreeNode newroot=new TreeNode();
-        if(root==null) return root;
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            TreeNode curr=q.poll();
-            if(curr==null) continue;
-            TreeNode temp;
-                temp = curr.left;
-                curr.left=curr.right;
-                curr.right=temp;
+    public void swap(TreeNode root){
+        TreeNode temp;
+        temp = root.left;
+        root.left=root.right;
+        root.right=temp;
+    } 
 
-                q.add(curr.left);
-                q.add(curr.right);
-        }
+    public TreeNode invertTree(TreeNode root) {
+       if(root!=null){
+            swap(root);
+            invertTree(root.left);
+            invertTree(root.right);
+       }
         return root;
     }
 }
